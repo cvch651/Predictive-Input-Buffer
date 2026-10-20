@@ -1,0 +1,24 @@
+{
+  "geode": "4.0.0",
+  "gd": {
+    "win": "2.2081"
+  },
+  "id": "tuusuario.predictive-input-buffer",
+  "name": "Predictive Input Buffer",
+  "version": "1.0.0",
+  "developer": "TuUsuario",
+  "description": "Experimental input buffer recreation with configurable tick stages.",
+  "repository": "https://github.com/tuusuario/predictive-input-buffer",
+  "tags": [
+    "gameplay",
+    "utility"
+  ],
+  "settings": {
+    "verbose-log": {
+      "name": "Verbose log",
+      "description": "Print each buffered input in the Geode console.",
+      "type": "bool",
+      "default": false
+    }
+  }
+}
